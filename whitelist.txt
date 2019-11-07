@@ -193,3 +193,5 @@ youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
 edge-mqtt.facebook.com
+r4---sn-p5qlsnsd.googlevideo.com
+googlevideo.com
