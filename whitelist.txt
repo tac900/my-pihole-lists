@@ -62,6 +62,7 @@ dynupdate.no-ip.com
 ecn.dev.virtualearth.net
 ec-ns.sascdn.com
 edge.api.brightcove.com
+edge-mqtt.facebook.com
 eds.xboxlive.com
 fonts.gstatic.com
 forums.sonarr.tv
@@ -72,6 +73,7 @@ github.com
 github.io
 g.live.com
 googleapis.com
+googlevideo.com
 gravatar.com
 gstatic.com
 help.ui.xboxlive.com
@@ -132,6 +134,7 @@ proxy.plex.bz
 proxy.plex.tv
 pubsub.plex.bz
 pubsub.plex.tv
+r4---sn-p5qlsnsd.googlevideo.com
 raw.githubusercontent.com
 redirector.googlevideo.com
 res.cloudinary.com
@@ -192,6 +195,3 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
-edge-mqtt.facebook.com
-r4---sn-p5qlsnsd.googlevideo.com
-googlevideo.com
