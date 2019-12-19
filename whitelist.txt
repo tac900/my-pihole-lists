@@ -199,3 +199,5 @@ yt3.ggpht.com
 app-measurement.com
 aax-us-east.amazon-adsystem.com
 www.poolhost.com
+notify.firetv.bugsnag.appstore.a2z.com
+mas-sdk.amazon.com
