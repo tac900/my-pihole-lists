@@ -1,3 +1,0 @@
-192.168.1.1     gateway.local
-192.168.1.20   pihole1.local
-192.168.1.25   pihole2.local
