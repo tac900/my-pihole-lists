@@ -203,3 +203,4 @@ notify.firetv.bugsnag.appstore.a2z.com
 mas-sdk.amazon.com
 rest-prod.immedia-semi.com
 amazonadsi-a.akamaihd.net
+graph.facebook.com
